@@ -1,11 +1,11 @@
 {
   "name": "flogo-mongodb",
   "type": "flogo:activity",
-  "ref": "github.com/skothari-tibco/mongo-activity",
+  "ref": "github.com/wkarasz/mongo-activity",
   "version": "0.0.1",
   "title": "MongoDB",
   "description": "Manage MongoDB documents in a specified collection",
-  "homepage": "https://github.com/TIBCOSoftware/flogo-contrib/tree/master/activity/mongodb",
+  "homepage": "https://github.com/wkarasz/tree/master/mongo-activity",
   "input": [
     {
       "name": "uri",
